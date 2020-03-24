@@ -28,6 +28,13 @@ Public License, version 3. See **LICENSE** for details.
 | [Group administration](#group-administration) | [Output style](#output-style) |
 | [List of plugins](#list-of-plugins)           | [Contributors](#contributors) |
 
+
+## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/salmanpdr/otouto)
+
+
+
 ## Setup
 To get your bot running as soon as possible, see [Quick start](#quick-start).
 
